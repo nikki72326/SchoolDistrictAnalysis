@@ -6,7 +6,7 @@
     1. Replace ninth-grade reading and math schores
     2. Repeat the school district analysis with changed scores
 ### Resources
-   - Data Source: clean_students_complete..csv
+   - Data Source: clean_students_complete.csv
    - Software: Jupyter Notebook via Anaconda (PythonData)
 ### Summary
-The analysis of the updated dataset shows removing the 9th grade scores from Thomas High School had no impact to the district averages measured to the 0ne hundreths place as these were less than 1% of the overall student body.
+The analysis of the updated dataset shows removing the 9th grade scores from Thomas High School had no impact to the district averages measured to the whole number as these were less than 1% of the overall student body.
